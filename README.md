@@ -1,4 +1,4 @@
-# Two-Tier Web Application
+# Project Title: Two-Tier Web Application with Docker
 
 This repository contains a two-tier web application consisting of a frontend built with React and a backend API built with Node.js, both containerized using Docker.
 
@@ -16,7 +16,6 @@ Both components are designed to be easily deployed and scaled in containerized e
 - **Frontend**: React
 - **Backend**: Node.js, Express
 - **Containerization**: Docker
-- **Database**: MongoDB (or any preferred database)
 
 ## Getting Started
 
