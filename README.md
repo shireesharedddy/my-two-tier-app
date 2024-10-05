@@ -9,7 +9,13 @@ The application is structured as follows:
 - **Frontend**: A React application that serves as the user interface. It communicates with the backend API to display data and perform actions.
 - **Backend**: A Node.js application that handles API requests, interacts with the database, and serves the frontend with the necessary data.
 
+![project structure](https://github.com/user-attachments/assets/34865c57-caa2-464c-8ec8-11684a70df71)
+
+
 Both components are designed to be easily deployed and scaled in containerized environments.
+
+![containers created](https://github.com/user-attachments/assets/6e67d134-f838-4763-856b-3e2057e36039)
+
 
 ## Technologies Used
 
