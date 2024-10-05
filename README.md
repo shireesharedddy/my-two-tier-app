@@ -12,7 +12,10 @@ The application is structured as follows:
 ![project structure](https://github.com/user-attachments/assets/00469801-7e54-4187-b8a5-d16c617af15b)
 
 
+
+
 Both components are designed to be easily deployed and scaled in containerized environments.
+
 
 ![containers created](https://github.com/user-attachments/assets/6e67d134-f838-4763-856b-3e2057e36039)
 
